@@ -13,7 +13,9 @@
   - ✉️ Email: [anketvit@gmail.com]  
   - 🔗 LinkedIn: [https://www.linkedin.com/in/ankit-kumar-33465628/]  
   - 🐦 Twitter: [https://x.com/Real_dark_world]  
-  - 🔗 Google Scholar: [https://scholar.google.com/citations?user=z6TUyPIAAAAJ&hl=en](https://scholar.google.com/citations?user=z6TUyPIAAAAJ&hl=en)  
+  - 🔗 Google Scholar: [https://scholar.google.com/citations?user=z6TUyPIAAAAJ&hl=en](https://scholar.google.com/citations?user=z6TUyPIAAAAJ&hl=en)
+  - 🔗 Old GitHub Repo: [https://github.com/anketvit](https://github.com/anketvit)  
+ 
     
 
 ## 🔬 Research Interests  
