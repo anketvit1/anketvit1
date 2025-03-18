@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Dr Ankit Kumar (@anketvit1)  
 
 ## 🚀 About Me  
-- 🎓 I am an awardee of the **prestigious Ignaz Kogler Senior Fellowship, Germany (2023-2024)**  
+- 🎓 I am an awardee of the **prestigious Ignaz Kogler Senior Fellowship, Germany (2023-2024)**
+- 📚 **Education:**  
+  - 🎓 **B.Tech (Computer Science & Engineering), 2009** – Uttar Pradesh Technical University, Lucknow  
+  - 🎓 **M.Tech (Computer Engineering), 2014** – National Institute of Technology, Kurukshetra  
+  - 🎓 **PhD (Computer Engineering), 2021** – National Institute of Technology, Kurukshetra 
 - 👀 I’m interested in **Artificial Intelligence, Deep Learning, and Open Source Development**  
 - 🌱 I’m currently exploring **Large Language Models, Speech Recognition, and Generative AI**  
 - 💞️ I’m looking to collaborate on **AI/ML Research and Open Source AI Projects**  
