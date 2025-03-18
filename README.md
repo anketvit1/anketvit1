@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Anket (@anketvit1)  
+# 👋 Hi, I'm Dr Ankit Kumar (@anketvit1)  
 
 ### 🚀 About Me  
 - 👀 I’m interested in **Software Development, Open Source, and AI/ML**  
-- 🌱 I’m currently learning **Machine Learning, Web Development, and Cloud Technologies**  
+- 🌱 I’m currently learning **Machine Learning, and Cloud Technologies**  
 - 💞️ I’m looking to collaborate on **Open Source Projects & AI-based applications**  
 - 📫 How to reach me:  
-  - ✉️ Email: [your-email@example.com]  
-  - 🔗 LinkedIn: [your-linkedin-profile]  
-  - 🐦 Twitter: [your-twitter-handle]  
+  - ✉️ Email: [anketvit@gmail.com]  
+  - 🔗 LinkedIn: [https://www.linkedin.com/in/ankit-kumar-33465628/]  
+  - 🐦 Twitter: [https://x.com/Real_dark_world]  
 
 ### 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
