@@ -25,7 +25,6 @@
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?style=flat-square&logo=tensorflow)  
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface)  
 ![Transformers](https://img.shields.io/badge/-Transformers-red?style=flat-square&logo=transformers)  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
