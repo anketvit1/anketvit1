@@ -1,28 +1,37 @@
 # 👋 Hi, I'm Dr Ankit Kumar (@anketvit1)  
 
-### 🚀 About Me  
-- 👀 I’m interested in **Software Development, Open Source, and AI/ML**  
-- 🌱 I’m currently learning **Machine Learning, and Cloud Technologies**  
-- 💞️ I’m looking to collaborate on **Open Source Projects & AI-based applications**  
+## 🚀 About Me  
+- 🎓 I am an awardee of the **prestigious Ignaz Kogler Senior Fellowship, Germany (2023-2024)**  
+- 👀 I’m interested in **Artificial Intelligence, Deep Learning, and Open Source Development**  
+- 🌱 I’m currently exploring **Large Language Models, Speech Recognition, and Generative AI**  
+- 💞️ I’m looking to collaborate on **AI/ML Research and Open Source AI Projects**  
 - 📫 How to reach me:  
   - ✉️ Email: [anketvit@gmail.com]  
   - 🔗 LinkedIn: [https://www.linkedin.com/in/ankit-kumar-33465628/]  
   - 🐦 Twitter: [https://x.com/Real_dark_world]  
+  - 🔗 Google Scholar: [https://scholar.google.com/citations?user=z6TUyPIAAAAJ&hl=en](https://scholar.google.com/citations?user=z6TUyPIAAAAJ&hl=en)  
+    
 
-### 🔧 Tech Stack  
+## 🔬 Research Interests  
+- 🗣 **Speech Recognition** & **Spoken Language Understanding**  
+- 🤖 **Large Language Models (LLMs)** & **Machine Translation**  
+- 🎨 **Generative Adversarial Networks (GANs)**  
+- 🌀 **Autoencoders & Diffusion Models**  
+
+## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?style=flat-square&logo=tensorflow)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=huggingface)  
+![Transformers](https://img.shields.io/badge/-Transformers-red?style=flat-square&logo=transformers)  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)  
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 ![Anket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anketvit1&show_icons=true&theme=tokyonight)  
 
-### ⚡ Fun Fact  
-💡 Did you know? **The first computer virus was created in 1986 and was called "Brain."**  
+## ⚡ Fun Fact  
+💡 Did you know? **The first chatbot, ELIZA, was created in the 1960s and could mimic human conversation!**  
 
----
-
-⭐️ _Feel free to connect & collaborate!_  
+---  
+⭐ _Feel free to connect & collaborate!_  🚀
